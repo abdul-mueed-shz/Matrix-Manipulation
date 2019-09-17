@@ -1,2 +1,2 @@
 # hello-world
-Multiplying and adding matrices in c++
+Performing diffrent operations on Matrices in c++
